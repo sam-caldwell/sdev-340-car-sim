@@ -10,7 +10,6 @@
  * such as automatic and manual. It is designed to be extended or
  * templated over time to support various transmission types.
  */
-template <ShifterType shifter>
 class Transmission {
 public:
     /**
